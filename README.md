@@ -1,4 +1,5 @@
 # Course Title: Algorithmic Trading with Python
+[![DOI](https://zenodo.org/badge/672727644.svg)](https://doi.org/10.5281/zenodo.18737792)
 # Instructor: Ali Habibnia, Ph.D.
 
 This comprehensive, hands-on course provides a thorough exploration into the world of algorithmic trading, aimed at students, professionals, and enthusiasts with a basic understanding of Python programming and financial markets. We will dissect the vast landscape of trading from an algorithmic perspective, starting with the foundations and gradually progressing to more complex, cutting-edge techniques used by professionals in the trading industry.
